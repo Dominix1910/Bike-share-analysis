@@ -38,21 +38,23 @@ After:
 ## 1. Rider Distribution
 Members completed the majority of rides during January 2024.
 
- <img width="575" height="319" alt="499406066-7edce017-3636-4c01-b040-0a284dab5152" src="https://github.com/user-attachments/assets/89348ba0-cb80-4f19-a9b7-ddba7b7868ee" />
-
 <img width="244" height="81" alt="499406325-568d3d7e-9f93-4f29-addd-a233d6d405c2" src="https://github.com/user-attachments/assets/00724d91-cd69-450c-8039-a39b5432f8e0" />
 
 ## 2. Rideable Type Preference
-<img width="708" height="291" alt="499407771-091c4677-c4d2-45b8-808b-a12d2e0e0e4d" src="https://github.com/user-attachments/assets/5e1ec5e8-f076-4ee8-9ab2-ff03644c4120" />
+
+<img width="469" height="300" alt="Screenshot 2025-10-16 114941" src="https://github.com/user-attachments/assets/b508a5f0-aefe-4020-ad41-ff8e1bb283c7" />
+
 
 ## 3. Ride Duration
 
  <img width="320" height="61" alt="499408827-4e43cbbf-60e5-4580-becf-567b72790b25" src="https://github.com/user-attachments/assets/d3f9ae43-0cdc-4653-82f2-a7edbf780660" />
  
 Casual riders tend to take longer rides compared to members.
-## 4. Weekly Usage Patterns
-Analysis of rides across the week showed that Tuesday is the most popular day for both groups, with similar usage patterns across the week.
-<img width="839" height="335" alt="499409766-71191544-4d7f-4cf5-9ed4-f0c77f5f9515" src="https://github.com/user-attachments/assets/f1efe62d-080c-4256-ab5c-c98ec810b782" />
+## 4. Weekly and Daily usage Patterns
+Analysis of rides across the week showed that Wednesday  is the most popular day for both groups, with similar usage patterns across the week, also we can see that during the day 8am and 5pm is the busiest time for both groups.
+<img width="671" height="277" alt="Screenshot 2025-10-16 115222" src="https://github.com/user-attachments/assets/454a426b-cc84-4428-8b88-67c0d06e5e4b" />
+<img width="665" height="283" alt="Screenshot 2025-10-16 115211" src="https://github.com/user-attachments/assets/89895cfa-3ed1-4f65-aad6-1be4190d2780" />
+
 
 # Insights and Recommendations
 1. Usage Differences:
