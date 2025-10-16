@@ -38,6 +38,8 @@ After:
 ## 1. Rider Distribution
 Members completed the majority of rides during January 2024.
 
+<img width="475" height="286" alt="Screenshot 2025-10-16 114858" src="https://github.com/user-attachments/assets/fc72f033-df21-4a99-a7bf-69a933bdf32b" />
+
 <img width="244" height="81" alt="499406325-568d3d7e-9f93-4f29-addd-a233d6d405c2" src="https://github.com/user-attachments/assets/00724d91-cd69-450c-8039-a39b5432f8e0" />
 
 ## 2. Rideable Type Preference
