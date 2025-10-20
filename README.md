@@ -66,6 +66,7 @@ Analysis of rides across the week showed that Wednesday  is the most popular day
 1. Usage Differences:
    - Members ride more frequently and take shorter trips.
    - Casual riders take longer trips but ride less often.
+   - Both groups prefer classic bicycles over electric.
 
 2. Membership Incentives:
    - Casual riders could save money by purchasing memberships, especially for longer rides.
@@ -78,11 +79,14 @@ Analysis of rides across the week showed that Wednesday  is the most popular day
 
 # Tools and Skills Use
 • Tools: Microsoft Excel, Power Query, Pivot Tables, Charts
+
 • Skills: Data cleaning, descriptive analysis, data visualization, business insights, stakeholder communication
 
 # Next Steps
 • Analyze data for multiple months to identify seasonal trends.
+
 • Incorporate weather data or location analysis to better understand ride behavior.
+
 • Build an interactive Excel or Power BI dashboard to visualize trends and insights.
 
 # Conclusion
