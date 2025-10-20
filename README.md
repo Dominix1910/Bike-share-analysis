@@ -23,10 +23,14 @@ Based on these findings, I propose targeted marketing strategies to encourage ca
 
 # Data Preparation
 
-The dataset was downloaded from Divvy Trip Data (https://divvy-tripdata.s3.amazonaws.com/index.html) and stored locally as Cyclistic_Data.xlsx. This project uses data from January 2024 (202401-divvy-tripdata.csv) containing over 100,000 rows and 13 columns. Each row represents an individual ride record, including ride ID, ride type, start and end times, station names, coordinates, and rider type (casual or member).
+The dataset was downloaded from Divvy Trip Data (https://divvy-tripdata.s3.amazonaws.com/index.html) and stored locally as Cyclistic_Data.xlsx.
+This project uses data from January 2024 (202401-divvy-tripdata.csv) containing over 100,000 rows and 13 columns.
+Each row represents an individual ride record, including ride ID, ride type, start and end times, station names, coordinates, and rider type (casual or member).
 
 # Data Cleaning
-The dataset contained valuable information but also many missing values. To ensure accuracy, I removed all rows with missing or invalid data using Power Query Editor in Excel. Most missing data resulted from incorrect coordinates, which caused missing station names and IDs. I added new columns to calculate ride duration and day of the week, and removed irrelevant columns (e.g., station names and coordinates) for clarity.
+The dataset contained valuable information but also many missing values. To ensure accuracy, I removed all rows with missing or invalid data using Power Query Editor in Excel. 
+Most missing data resulted from incorrect coordinates, which caused missing station names and IDs. 
+I added new columns to calculate ride duration and day of the week, and removed irrelevant columns (e.g., station names and coordinates) for clarity.
 Before:
 <img width="1894" height="679" alt="499405273-30333c24-5691-494c-bd51-3b980e4fd147" src="https://github.com/user-attachments/assets/bdf78475-3ac2-495f-a299-f610ca398357" />
 After:
